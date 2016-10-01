@@ -1,2 +1,2 @@
-Git is a hh
+Git is free
 Git is free software
